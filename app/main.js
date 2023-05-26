@@ -80,7 +80,7 @@ while (!exit) {
     default:
       alert("Invalid option. Please try again.");
   }
-  // eliminando productos y/o sus cantidades
+  // eliminando productos y sus cantidades
   if (option === "2") {
     if (option === "2") {
       cart.displayCart();
